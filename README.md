@@ -1,4 +1,4 @@
-# **"Pinteres"**
+# **"Pinterest"**
 
 Este proyecto es una réplica de la interfaz de usuario de Pinterest utilizando HTML. El objetivo es recrear la estructura visual y funcional de la plataforma, incluyendo la disposición de los elementos, los mosaicos de imágenes, y la navegación. Con este proyecto se busca profundizar en el uso de HTML para la mejorar de habilidades en frontend, imitando un diseño web moderno y atractivo.
 
