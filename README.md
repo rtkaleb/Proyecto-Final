@@ -23,4 +23,4 @@ Este proyecto es una réplica de la interfaz de usuario de Pinterest utilizando 
 ### Repositorio
  https://github.com/rtkaleb/Proyecto-Final.git
 ### Github Pages
-colocar link#
+ https://rtkaleb.github.io/Proyecto-Final/
